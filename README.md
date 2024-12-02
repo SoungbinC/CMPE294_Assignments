@@ -1,1 +1,1 @@
-# CMPE294_Assignment for Transformers and finetuning with LLMs
+# CMPE294_Assignment for Advanced prompt engineering strategies
